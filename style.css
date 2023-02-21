@@ -12,6 +12,9 @@ body a {
 body input:focus {
   outline: none;
 }
+body{
+  background:black;
+}
 
 .container {
   width: 100%;
